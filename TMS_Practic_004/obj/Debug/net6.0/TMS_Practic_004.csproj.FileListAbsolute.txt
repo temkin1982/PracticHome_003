@@ -1,0 +1,15 @@
+D:\אלגוריטמיקה_2022\TMS_Practic_004\TMS_Practic_004\bin\Debug\net6.0\TMS_Practic_004.exe
+D:\אלגוריטמיקה_2022\TMS_Practic_004\TMS_Practic_004\bin\Debug\net6.0\TMS_Practic_004.deps.json
+D:\אלגוריטמיקה_2022\TMS_Practic_004\TMS_Practic_004\bin\Debug\net6.0\TMS_Practic_004.runtimeconfig.json
+D:\אלגוריטמיקה_2022\TMS_Practic_004\TMS_Practic_004\bin\Debug\net6.0\TMS_Practic_004.dll
+D:\אלגוריטמיקה_2022\TMS_Practic_004\TMS_Practic_004\bin\Debug\net6.0\TMS_Practic_004.pdb
+D:\אלגוריטמיקה_2022\TMS_Practic_004\TMS_Practic_004\obj\Debug\net6.0\TMS_Practic_004.csproj.AssemblyReference.cache
+D:\אלגוריטמיקה_2022\TMS_Practic_004\TMS_Practic_004\obj\Debug\net6.0\TMS_Practic_004.GeneratedMSBuildEditorConfig.editorconfig
+D:\אלגוריטמיקה_2022\TMS_Practic_004\TMS_Practic_004\obj\Debug\net6.0\TMS_Practic_004.AssemblyInfoInputs.cache
+D:\אלגוריטמיקה_2022\TMS_Practic_004\TMS_Practic_004\obj\Debug\net6.0\TMS_Practic_004.AssemblyInfo.cs
+D:\אלגוריטמיקה_2022\TMS_Practic_004\TMS_Practic_004\obj\Debug\net6.0\TMS_Practic_004.csproj.CoreCompileInputs.cache
+D:\אלגוריטמיקה_2022\TMS_Practic_004\TMS_Practic_004\obj\Debug\net6.0\TMS_Practic_004.dll
+D:\אלגוריטמיקה_2022\TMS_Practic_004\TMS_Practic_004\obj\Debug\net6.0\refint\TMS_Practic_004.dll
+D:\אלגוריטמיקה_2022\TMS_Practic_004\TMS_Practic_004\obj\Debug\net6.0\TMS_Practic_004.pdb
+D:\אלגוריטמיקה_2022\TMS_Practic_004\TMS_Practic_004\obj\Debug\net6.0\TMS_Practic_004.genruntimeconfig.cache
+D:\אלגוריטמיקה_2022\TMS_Practic_004\TMS_Practic_004\obj\Debug\net6.0\ref\TMS_Practic_004.dll
