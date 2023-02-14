@@ -86,6 +86,7 @@ namespace TMS_Practic_004
             //tasks 2.1 Array:
 
             //int[] source = { 5, 4, 7, 2, 9, 7, 10 };
+            //Console.Write("Enter elements count: ");
             //int numberReadLine = Convert.ToInt32(Console.ReadLine());
             //int futureArrayLength = 0;
             //foreach (int item in source)
@@ -95,6 +96,7 @@ namespace TMS_Practic_004
             //        futureArrayLength++;
             //    }
             //}
+            //Console.WriteLine("---------------------------------------------------");
 
             //int[] resultArray = new int[futureArrayLength];
 
@@ -102,43 +104,45 @@ namespace TMS_Practic_004
 
             //for (int i = 0; i < source.Length; i++)
             //{
-            //    if (source[i] != numberReadLine)
+            //    if (source[i] != numberReadLine && iterationForAppend != resultArray.Length )
             //    {
-            //        if (iterationForAppend != resultArray.Length)
-            //        {
-            //            resultArray[iterationForAppend] = source[i];
+            //        resultArray[iterationForAppend] = source[i];
             //            iterationForAppend++;
-            //        }
-            //    }
+            //    }    
+
             //}
+            //for (int i = 0; i < resultArray.Length; i++)
+            //{
+            //    Console.WriteLine(resultArray[i]);
+            //}
+            //Console.ReadKey();    
+
             //tasks 2.2 Array:
 
-            //Console.Write("Enter elements count: ");
-            //int elementsCount = int.Parse(Console.ReadLine());
-            //int[] myArray = new int[elementsCount];
-            //Random ran = new Random();
+            Console.Write("Enter elements count: ");
+            int elementsCount = int.Parse(Console.ReadLine());
+            int[] myArray = new int[elementsCount];
+            Random ran = new Random();
 
-            //for (int i = 0; i < myArray.Length; i++)
-            //{
-            //    myArray[i] = ran.Next(); //  если поставить значение 1 , 10 то будет лучше видно как код работает
-            //}
+            for (int i = 0; i < myArray.Length; i++)
+            {
+                myArray[i] = ran.Next(); //  если поставить значение 1 , 10 то будет лучше видно как код работает
+            }
 
-            //Console.WriteLine("The elements:  ");
+            Console.WriteLine("The elements:  ");
 
-            //int maxElement = myArray[0];
-            //int middArr = myArray.Length / 2;
-            //for (int i = 0; i < myArray.Length; i++)
-            //{
-            //    Console.WriteLine("The random elemnt: " + i + " . " + myArray[i]);
-            //    if (myArray[i] > maxElement)
-            //        maxElement= myArray[i];
+            
+            for (int i = 0; i < myArray.Length; i++)
+            {
+                Console.WriteLine("The random elemnt: " + i + " . " + myArray[i]);
+                
 
-
-
-            //}
-            //Console.WriteLine($"\n The minimum number is: {myArray.Min()}");
-            //Console.WriteLine($"\n The middle number is: {myArray[middArr]}");
-            //Console.WriteLine($"\n The max element is:  {maxElement}");
+            }
+            Console.WriteLine($"\n The minimum number is: {myArray.Min()}");
+            Console.WriteLine($"\n The middle number is: {myArray.Average()}");
+            Console.WriteLine($"\n The max element is:  {myArray.Max()}");
+            
+            
 
             //tasks 2.3 Array:
 
@@ -181,7 +185,7 @@ namespace TMS_Practic_004
             //{
             //    Console.WriteLine($"The arithmetic  from myArray2: {(sum2 / 5)} is big from myArray1:  {(sum1 / 5)} ");
             //}
-           
+
         }
     }    
 
